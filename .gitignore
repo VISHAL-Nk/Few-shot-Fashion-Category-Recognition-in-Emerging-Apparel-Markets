@@ -1,6 +1,7 @@
 myenv/
 DeepFashion2/
 output/
+output1/
 markdowns/
 
 *.zip
